@@ -1,1 +1,1 @@
-# sistema_de_recomendaciones
+En este repositorio se encuentra un archivo que contiene un algoritmo para recomendar contenidos a usuarios. En el archivo en cuestión se diseño un sistema de recomendación para un usuario de ejemplo, al que se le recomendaron 20 contenidos.
